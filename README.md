@@ -141,4 +141,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

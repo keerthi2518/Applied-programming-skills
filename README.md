@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/keerthi2518/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
